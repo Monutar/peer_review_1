@@ -27,8 +27,6 @@
 #include <string_view>
 #include <string>
 
-#include "log_duration.h"
-
 using namespace std;
 using namespace std::literals;
 
